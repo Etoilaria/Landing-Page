@@ -1,10 +1,10 @@
 :root {
-    --bg-dark: rgb(121, 42, 42);
-    --txt-dark: rgb(143, 55, 55);
-    --txt-dark-2: rgb(164, 70, 70);
-    --cta: rgb(207, 68, 68);
-    --txt-light: rgb(254, 226, 226);
-    --txt-grey: rgb(240, 240, 240);
+    --bg-dark: rgb(53, 42, 121);
+    --txt-dark: rgb(83, 55, 143);
+    --txt-dark-2: rgb(108, 70, 164);
+    --cta: rgb(117, 68, 207);
+    --txt-light: rgb(237, 226, 254);
+    --txt-grey: rgb(241, 237, 246);
   }
    :root {
     --fontSize-1: 1rem;
@@ -157,16 +157,16 @@
     height: 140px;
   }
   .section--2__cards .card .img--1 {
-    background-color: rgb(240, 102, 102);
+    background-color: var(--cta);
   }
   .section--2__cards .card .img--2 {
-    background: rgb(201, 84, 84);
-  }
-  .section--2__cards .card .img--3 {
     background: var(--txt-dark-2);
   }
-  .section--2__cards .card .img--4 {
+  .section--2__cards .card .img--3 {
     background: var(--txt-dark);
+  }
+  .section--2__cards .card .img--4 {
+    background: var(--bg-dark);
   }
   .section--2__cards .card p {
     text-align: center;
