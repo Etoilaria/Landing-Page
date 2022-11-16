@@ -1,0 +1,51 @@
+body {}
+h1,h2,h3{}
+p{}
+a{}
+html{}
+*{}
+ul{}
+button{}
+
+.wrapper{}
+.section{}
+.section--1{}
+
+.section--1 .wrapper{}
+.section--1 .header{}
+.section--1 .header__logo{}
+.section--1 .header__menu{}
+.section--1 .header__menu-item{}
+.section--1 .hero{}
+.section--1 .hero__left{}
+.section--1 .hero__left-heading{}
+.section--1 .hero__right{}
+
+.section--2{}
+.section--2 .wrapper{}
+.section--2__header{}
+.section--2__cards{}
+.section--2__cards .card{}
+.section--2__cards .card .img{}
+.section--2__cards .card .img--1{}
+.section--2__cards .card .img--2{}
+.section--2__cards .card .img--3{}
+.section--2__cards .card .img--4 {}
+.section--2__cards .card p{}
+.section--3 {}
+.section--3 .wrapper {}
+.section--3 p.big {}
+.section--3 p.author {}
+
+.section--4 {}
+.section--4 .wrapper {}
+.section--4 .cta {}
+.section--4 .cta__textBox {}
+.section--4 .cta__textBox-big {}
+
+.button {}
+.button--cta {}
+.button--cta--transparent {}
+
+
+
