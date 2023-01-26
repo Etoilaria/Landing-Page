@@ -1,10 +1,10 @@
 :root {
-    --bg-dark: rgb(53, 42, 121);
-    --txt-dark: rgb(83, 55, 143);
-    --txt-dark-2: rgb(108, 70, 164);
-    --cta: rgb(117, 68, 207);
-    --txt-light: rgb(237, 226, 254);
-    --txt-grey: rgb(241, 237, 246);
+    --bg-dark: rgb(34, 79, 109);
+    --txt-dark: rgb(55, 106, 143);
+    --txt-dark-2: rgb(70, 141, 179);
+    --cta: rgb(68, 168, 207);
+    --txt-light: rgb(226, 246, 254);
+    --txt-grey: rgb(237, 243, 246);;
   }
    :root {
     --fontSize-1: 1rem;
